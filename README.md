@@ -78,7 +78,7 @@ graph TD
 ## 📂 Codebase Directory Structure
 
 ```
-bold-galileo/
+OPS PILOT/
 ├── backend/                      # Python FastAPI Application
 │   ├── app/
 │   │   ├── api/                  # REST Routers (auth, workflows, executions, approvals, knowledge, audit_logs, dashboard, metrics)
@@ -121,7 +121,7 @@ bold-galileo/
 
 ```bash
 # Navigate to project root
-cd bold-galileo
+cd "OPS PILOT"
 
 # Activate virtual environment
 source backend/venv/bin/activate
